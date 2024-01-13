@@ -1,0 +1,15 @@
+﻿{
+  "Name": "StudioByProjectName",
+  "Type": "Screen",
+  "Id": "XOCeFhaF-06t_slnHrYGIQ",
+  "Reference": "QnWWsapDmUqyob6znTQ9FQ/XOCeFhaF-06t_slnHrYGIQ",
+  "ParentRef": "QnWWsapDmUqyob6znTQ9FQ/S29MpbAMvkyP6T50objaig",
+  "Created": "2024-01-13T20:31:05.8101436Z",
+  "Updated": "2024-01-13T20:39:17.4645876Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

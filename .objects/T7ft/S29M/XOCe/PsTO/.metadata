@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Ribbon_DesignTab",
+  "Type": "Element",
+  "TaxonomyType": "Tab",
+  "Id": "PsTOA3E7TEq8M4waauQg-g",
+  "Reference": "QnWWsapDmUqyob6znTQ9FQ/PsTOA3E7TEq8M4waauQg-g",
+  "ParentRef": "QnWWsapDmUqyob6znTQ9FQ/XOCeFhaF-06t_slnHrYGIQ",
+  "Created": "2024-01-13T20:31:05.8514359Z",
+  "Updated": "2024-01-13T20:31:05.8514359Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

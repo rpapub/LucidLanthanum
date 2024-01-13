@@ -1,0 +1,15 @@
+﻿{
+  "Name": "UiExplorer",
+  "Type": "Screen",
+  "Id": "XitIVt0t5UKBIzwBLXHI3g",
+  "Reference": "QnWWsapDmUqyob6znTQ9FQ/XitIVt0t5UKBIzwBLXHI3g",
+  "ParentRef": "QnWWsapDmUqyob6znTQ9FQ/S29MpbAMvkyP6T50objaig",
+  "Created": "2024-01-13T20:31:05.8706872Z",
+  "Updated": "2024-01-13T20:31:05.8706872Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

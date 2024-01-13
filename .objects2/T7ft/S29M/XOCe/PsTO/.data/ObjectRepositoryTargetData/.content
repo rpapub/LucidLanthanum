@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rTKCTrQ7XUeTc8M_HqDZtw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="92, 0, 102, 39" CvTextArea="112, 12, 61, 16" CvTextArgument="DESIGN" CvType="Button" DesignTimeRectangle="94, 1, 99, 38" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'_D'" FullSelectorArgument="&lt;ctrl automationid='Ribbon' /&gt;&lt;ctrl automationid='PART_TabStrip' /&gt;&lt;ctrl automationid='Ribbon_DesignTab' /&gt;&lt;ctrl name='_D' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='Ribbon' /&gt;&lt;ctrl automationid='PART_TabStrip' /&gt;&lt;ctrl automationid='Ribbon_DesignTab' /&gt;&lt;ctrl name='_D' role='text' automationid='' check:text='_D' /&gt;" Guid="ea952a65-b5c2-4803-9981-df1ff74d995a" ScopeSelectorArgument="&lt;wnd app='uipath.studio.exe' cls='HwndWrapper*' title='SpiritedBoron - UiPath Studio' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="16c18b06be25f199a921bff095f0ac8e.png" xmlns="">0os4DU-54Xke7whMOB-Ju1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
